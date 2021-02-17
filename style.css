@@ -1,0 +1,21 @@
+/* ------ CSS - HTML Canvas Particles 2 - Floating Particles ------ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#canvas1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#25364f, #4d71a5, #9bc4ff);
+}
+h1 {
+    text-align: center;
+    font-family: 'Coiny', cursive; /* font-family: 'Roboto', sans-serif;  | font-family: 'Yellowtail', cursive;  | font-family: 'Flavors', cursive; | font-family: 'Coiny', cursive; | font-family: 'Poppins', sans-serif;  */
+    font-weight: 400;
+    font-size: 3.5rem;
+    color: #c32aa2;
+    text-shadow: 1px 2px 1px #801b6a;
+    filter: drop-shadow(-1px 6px 3px rgba(25, 36, 54, 0.5));
+}
